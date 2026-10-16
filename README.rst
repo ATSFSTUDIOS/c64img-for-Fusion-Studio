@@ -6,7 +6,6 @@ C64img is a python package which provides an abstraction layer for creating imag
 
 This repo holds a fork of the C64img Python Module. The goal is to create a BMD Fusion Stduio based integration of the c64img python module to help streamline Commodore c64 focused retro 8-bit console art creation & game development.
 
-
 This project was inspired by `PNG2HIRES_ v0.2 gfx format converter`_ /enthusi
 (onslaught), which was initially used as simple graphics converter between
 PNG/GIF images to C64 hires (Art studio + executable). It evolved to bunch of
