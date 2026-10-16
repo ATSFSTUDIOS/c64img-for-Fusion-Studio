@@ -168,7 +168,7 @@ Example of output for ``save`` and ``fix`` arguments for ``--error`` parameter:
 
 Changes
 -------
-
++ 20q6-10-16 Fork of project to create a 3D DCC/compositing software focused plug-in integrated version
 + 2021-08-14 Forgot to push python3 support!
 + 2018-06-12 Added information about possibility to convert picture to chars
   (no conversion! Just an info in log!)
